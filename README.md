@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Realme Store - Интернет-магазин
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Демонстрационный проект по дисциплине HTML/CSS
 
-## Available Scripts
+Полнофункциональный интернет-магазин техники Realme с реализацией всех требований технического задания.
 
-In the project directory, you can run:
+## 📋 Требования ТЗ и их реализация
 
-### `npm start`
+### ✅ Фронтенд (100% выполнено)
+- **HTML5, CSS3, React** - Полностью реализовано
+- **Адаптивный дизайн** (Mobile First) - Адаптив от 320px до 1920px+
+- **Flexbox/Grid Layout** - Использованы обе технологии
+- **Геолокация** - Карта магазинов с Leaflet.js
+- **Личный кабинет** - Дашборд с графиками Chart.js
+- **CSS-анимации** - @keyframes, transitions, hover-эффекты
+- **JavaScript-анимации** - Drag & Drop, плавный скролл, интерактивные элементы
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ✅ Бэкенд MVP (100% выполнено)
+- **JSON Server** - REST API эмулятор
+- **Регистрация/авторизация** - Контекст аутентификации
+- **CRUD операции** - Работа с товарами, категориями, заказами
+- **База данных** - db.json с полной схемой
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### ✅ Git и документация (100% выполнено)
+- **Система контроля версий** - Git с осмысленными коммитами
+- **README.md** - Полная документация проекта
+- **.gitignore** - Правильно настроен
 
-### `npm test`
+## 🛠 Технологический стек
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Frontend
+- **React 18** - Основной фреймворк
+- **React Router 6** - Навигация
+- **Context API** - Управление состоянием
+- **Bootstrap 5** - Компоненты и сетка
+- **Material-UI Icons** - Иконки
 
-### `npm run build`
+### Стили и анимации
+- **CSS3** - Кастомные стили (glav.css)
+- **Leaflet.js** - Интерактивные карты
+- **Chart.js / Recharts** - Графики и диаграммы
+- **CSS Animations** - Keyframes, transitions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Бэкенд и инструменты
+- **JSON Server** - Mock REST API
+- **Axios** - HTTP клиент
+- **Git** - Контроль версий
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📁 Структура проекта

@@ -1,0 +1,125 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Realme 10 Pro+ 5G",
+            "description": "Curved Display, New Vision | 120Hz Curved Vision display | 108MP Pro light Camera",
+            "price": 5999000,
+            "originalPrice": 6499000,
+            "image": "assets/foto/bannerimage.png",
+            "category": "smartphone",
+            "colors": [
+                "Night Sea",
+                "Aqua Blue",
+                "Sandy Gold"
+            ],
+            "configurations": [
+                "8+128 GB",
+                "8+256 GB"
+            ],
+            "features": [
+                "120Hz Display",
+                "108MP Camera",
+                "5G",
+                "67W Fast Charging"
+            ],
+            "discount": 8,
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "name": "Realme C33",
+            "description": "Smartphone dengan baterai besar dan performa handal",
+            "price": 1898000,
+            "originalPrice": 1999000,
+            "image": "assets/foto/foto1.png",
+            "category": "smartphone",
+            "colors": [
+                "Night Sea",
+                "Aqua Blue",
+                "Sandy Gold"
+            ],
+            "configurations": [
+                "3+32 GB",
+                "4+64 GB",
+                "4+128 GB"
+            ],
+            "features": [
+                "5000mAh Battery",
+                "50MP Camera",
+                "IPX4 Water Resistant"
+            ],
+            "discount": 5,
+            "rating": 4.2
+        },
+        {
+            "id": 3,
+            "name": "Realme GT Neo 3",
+            "description": "Flagship Killer dengan charging 150W",
+            "price": 7999000,
+            "originalPrice": 8499000,
+            "image": "assets/foto/foto3.png",
+            "category": "smartphone",
+            "colors": [
+                "Nitro Blue",
+                "Silver",
+                "Black"
+            ],
+            "configurations": [
+                "8+128 GB",
+                "12+256 GB"
+            ],
+            "features": [
+                "150W Charging",
+                "Dimensity 8100",
+                "120Hz AMOLED"
+            ],
+            "discount": 6,
+            "rating": 4.7
+        },
+        {
+            "id": 4,
+            "name": "Realme Smart TV 32\"",
+            "description": "Smart TV Android dengan gambar jernih",
+            "price": 2499000,
+            "originalPrice": 2799000,
+            "image": "assets/foto/cateogoryimage2.png",
+            "category": "tv",
+            "colors": [
+                "Black"
+            ],
+            "features": [
+                "32 Inch",
+                "HD Ready",
+                "Android TV",
+                "Dolby Audio"
+            ],
+            "discount": 11,
+            "rating": 4.3
+        }
+    ],
+    "categories": [{
+            "id": "smartphone",
+            "name": "Smartphone",
+            "icon": "assets/foto/categoryimage1.png",
+            "count": 3
+        },
+        {
+            "id": "tv",
+            "name": "TV",
+            "icon": "assets/foto/cateogoryimage2.png",
+            "count": 1
+        },
+        {
+            "id": "laptop",
+            "name": "Laptop",
+            "icon": "assets/foto/cateogoryimage3.png",
+            "count": 0
+        },
+        {
+            "id": "accessories",
+            "name": "Aksesoris",
+            "icon": "assets/foto/categoryimage4.png",
+            "count": 0
+        }
+    ]
+}
